@@ -17,3 +17,4 @@
 ## חיבור דומיין
 ב-Vercel: Project Settings > Domains > Add Domain
 לאחר מכן לעדכן DNS ב-GoDaddy לפי ההוראות של Vercel.
+update
